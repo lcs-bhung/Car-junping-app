@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SpriteKit
 
 class ViewController: UIViewController {
 
@@ -14,6 +15,20 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    //Draw the background (static shapes)
+    
+    
+    
+    
+    
+    //Import the sprites required
+    
+    
+    
+    
+    
+    
     // Create the variables required for the app, these variables would then be changed by the user
     var speed: Double = 10
     var acceleration: Double = 5
@@ -50,4 +65,19 @@ class ViewController: UIViewController {
 
 
 }
+
+//Impliment these numbers to how the sprites will move.
+
+
+
+//Formula of the trajectory is required
+
+
+
+//Animate the sprites to move according to the inputs
+
+
+
+
+
 
