@@ -13,6 +13,7 @@
 		57684BFC247B770A005A77AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57684BFA247B770A005A77AE /* Main.storyboard */; };
 		57684BFE247B771D005A77AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57684BFD247B771D005A77AE /* Assets.xcassets */; };
 		57684C01247B771D005A77AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57684BFF247B771D005A77AE /* LaunchScreen.storyboard */; };
+		57684C0B2484F462005A77AE /* Monster truck gameasset.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 57684C0A2484F462005A77AE /* Monster truck gameasset.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		57684BFD247B771D005A77AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57684C00247B771D005A77AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57684C02247B771D005A77AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57684C0A2484F462005A77AE /* Monster truck gameasset.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Monster truck gameasset.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 			children = (
 				57684BF3247B770A005A77AE /* Car junping app */,
 				57684BF2247B770A005A77AE /* Products */,
+				57684C0A2484F462005A77AE /* Monster truck gameasset.jpeg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -59,12 +62,20 @@
 				57684BF4247B770A005A77AE /* AppDelegate.swift */,
 				57684BF6247B770A005A77AE /* SceneDelegate.swift */,
 				57684BF8247B770A005A77AE /* ViewController.swift */,
+				57684C092484F451005A77AE /* New Group */,
 				57684BFA247B770A005A77AE /* Main.storyboard */,
 				57684BFD247B771D005A77AE /* Assets.xcassets */,
 				57684BFF247B771D005A77AE /* LaunchScreen.storyboard */,
 				57684C02247B771D005A77AE /* Info.plist */,
 			);
 			path = "Car junping app";
+			sourceTree = "<group>";
+		};
+		57684C092484F451005A77AE /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +139,7 @@
 				57684C01247B771D005A77AE /* LaunchScreen.storyboard in Resources */,
 				57684BFE247B771D005A77AE /* Assets.xcassets in Resources */,
 				57684BFC247B770A005A77AE /* Main.storyboard in Resources */,
+				57684C0B2484F462005A77AE /* Monster truck gameasset.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

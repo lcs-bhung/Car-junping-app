@@ -30,6 +30,9 @@ class ViewController: UIViewController {
     var xVelocity: Double = 0
     var distance: Double = 0
     
+    //Create the scene
+    let frame = CGRect(x: 0, y: 0, width: 750, height: 1334
+    var scene = SKScene(size: frame.size)
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -58,6 +61,12 @@ class ViewController: UIViewController {
         distance = xVelocity * timeTaken
 
     }
+    
+    let car = SKSpriteNode(imageNamed: "monster truck gameasset")
+    
+    
+    
+    
     
     //Draw the background (static shapes)
     
